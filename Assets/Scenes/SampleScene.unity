@@ -477,7 +477,7 @@ GameObject:
   - component: {fileID: 1081029721}
   - component: {fileID: 1081029725}
   m_Layer: 0
-  m_Name: Square
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -554,7 +554,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!212 &1081029723
 SpriteRenderer:
   m_ObjectHideFlags: 0
